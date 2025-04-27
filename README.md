@@ -69,9 +69,6 @@ python main.py
 
 ---
 
-<p align="center">
-  <img src="assets/ai-banner.jpg" alt="Artificial Intelligence" width="700"/>
-</p>
 
 <p align="center">
   <b>Happy Chatting with DeepSeek! 🎉</b>
