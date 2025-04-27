@@ -29,42 +29,57 @@
 git clone https://github.com/your-username/deepseek-local-chat.git
 cd deepseek-local-chat
 
-2. Create and Activate a Virtual Environment
-On Windows:
-bash
-Copy
-Edit
+### 2. Create and Activate a Virtual Environment
+
+#### On Windows:
+```bash
 python -m venv .venv
 .venv\Scripts\activate
-On macOS/Linux:
-bash
-Copy
-Edit
+```
+
+#### On macOS/Linux:
+```bash
 python3 -m venv .venv
 source .venv/bin/activate
-3. Install Dependencies
-bash
-Copy
-Edit
+```
+
+### 3. Install Dependencies
+```bash
 pip install -r requirements.txt
-4. Pull the DeepSeek-R1:1.5B Model
-bash
-Copy
-Edit
+```
+
+### 4. Pull the DeepSeek-R1:1.5B Model
+```bash
 ollama pull deepseek-r1:1.5b
-5. Run the Script
-bash
-Copy
-Edit
+```
+
+### 5. Run the Script
+```bash
 python main.py
-The script will send a predefined prompt to the model and display the response.
+```
 
-🛠 Notes
-Make sure Ollama is running before you execute the script.
+> The script will send a predefined prompt to the model and display the response.
 
-Feel free to customize main.py to change prompts or enhance functionality!
+---
 
-📄 License
-This project is licensed under the MIT License.
+## 🛠 Notes
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:22D3EE&height=120&section=footer" /> </p> <p align="center"> <b>Happy Chatting with DeepSeek! 🎉</b> </p> ```
+- Make sure **Ollama** is running before you execute the script.
+- Feel free to customize `main.py` to change prompts or enhance functionality!
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:22D3EE&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <b>Happy Chatting with DeepSeek! 🎉</b>
+</p>
+```
