@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">DeepSeek-R1:1.5B Local Chat 🚀</h1>
 
 <p align="center">
