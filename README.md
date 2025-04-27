@@ -26,8 +26,7 @@
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/deepseek-local-chat.git
-cd deepseek-local-chat
+https://github.com/Tawfiq-alqaidy/Run-DeepSeek-R1-1.5B-locally-using-Python-and-Ollama.git
 
 ### 2. Create and Activate a Virtual Environment
 
@@ -67,13 +66,7 @@ python main.py
 - Make sure **Ollama** is running before you execute the script.
 - Feel free to customize `main.py` to change prompts or enhance functionality!
 
----
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:22D3EE&height=120&section=footer" />
