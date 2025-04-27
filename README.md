@@ -31,22 +31,22 @@ cd deepseek-local-chat
 
 2. Create and Activate a Virtual Environment
 On Windows:
-
+bash
+Copy
+Edit
 python -m venv .venv
 .venv\Scripts\activate
-
-
 On macOS/Linux:
-
+bash
+Copy
+Edit
 python3 -m venv .venv
 source .venv/bin/activate
-
-
 3. Install Dependencies
-
+bash
+Copy
+Edit
 pip install -r requirements.txt
-
-
 4. Pull the DeepSeek-R1:1.5B Model
 bash
 Copy
