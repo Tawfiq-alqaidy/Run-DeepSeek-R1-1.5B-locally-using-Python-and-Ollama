@@ -70,10 +70,8 @@ python main.py
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/razzaqhusami/Artificial-Intelligence/main/assets/ai-banner.png" alt="Artificial Intelligence Banner" />
+  <img src="https://cdn.pixabay.com/photo/2019/06/17/19/48/artificial-intelligence-4288321_960_720.jpg" alt="Artificial Intelligence" width="700"/>
 </p>
 
 <p align="center">
   <b>Happy Chatting with DeepSeek! 🎉</b>
-</p>
-```
