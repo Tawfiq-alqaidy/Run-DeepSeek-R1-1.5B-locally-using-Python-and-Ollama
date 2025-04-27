@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">DeepSeek-R1:1.5B Local Chat 🚀</h1>
 
 <p align="center">
@@ -66,10 +67,10 @@ python main.py
 - Make sure **Ollama** is running before you execute the script.
 - Feel free to customize `main.py` to change prompts or enhance functionality!
 
-
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:22D3EE&height=120&section=footer" />
+  <img src="https://raw.githubusercontent.com/razzaqhusami/Artificial-Intelligence/main/assets/ai-banner.png" alt="Artificial Intelligence Banner" />
 </p>
 
 <p align="center">
